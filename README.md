@@ -2,5 +2,5 @@
 
 ```
 ##ScreenShot
-<img src="Demo1.png" width="600" height="300"/><br><br>
+<img src="Demo.jpg" width="600" height="300"/><br><br>
 
