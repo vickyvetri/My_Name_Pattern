@@ -1,7 +1,6 @@
 ## OUTPUT
 
 ```
-ScreenSot<br>
-
-<img src="Demo1.jpg" width="600" height="300"/><br><br>
+##ScreenShot
+<img src="Demo1.png" width="600" height="300"/><br><br>
 
